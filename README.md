@@ -1,1 +1,1 @@
-# Skin-Cancer-Detection
+It is a Skin Cancer Detection Tool using deep learning in Python is a system designed to help identify skin cancer by analyzing images of skin spots. It uses a type of artificial intelligence (AI) called convolutional neural networks (CNNs), which are especially good at looking at pictures. 
